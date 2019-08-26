@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       
       <Cards />
-      <h1>Click Dçealer a Card</h1>
+      <h1>Click Dealer for a Card</h1>
     </div>
   );
 }
